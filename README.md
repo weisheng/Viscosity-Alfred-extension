@@ -1,7 +1,7 @@
 Viscosity Alfred extension
 ============
 
-Control OpenVPN connections in [Viscosity](http://www.thesparklabs.com/viscosity/) through[Alfred](http://alfredapp.com/). The use of extensions requires Alfred's [Powerpack](http://www.alfredapp.com/powerpack/).
+Control OpenVPN connections in [Viscosity](http://www.thesparklabs.com/viscosity/) through [Alfred](http://alfredapp.com/). The use of extensions requires Alfred's [Powerpack](http://www.alfredapp.com/powerpack/).
 
 Installation
 ----------------
