@@ -11,6 +11,9 @@ Double click on the extension file to install.
 Using the extension
 ----------------
 
-vis connection_name
+vis connection_name (eg. vis work, vis us1 etc)
+
+"vis" is the default keyword.
+"connection_name" refers to the specific name of the connection in Viscosity and is case-sensitive.
 
 If there is no active connection, Viscosity will connect to the specified connection. Otherwise it will disconnect the specified connection.
